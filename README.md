@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## ⚙️ GitHub Analytics
 ![Muryllo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muryllost&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muryllost&layout=compact&theme=radical&langs_count=6&hide=C,C%23,Python,Java,C++)
+
 
 
 
