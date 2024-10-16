@@ -19,13 +19,17 @@ Here are some ideas to get you started:
 - Apaixonado por tecnologia, atualmente focado em aprimorar minhas habilidades no **desenvolvimento web**.
 - Aprendendo **back-end** para complementar minhas habilidades no **front-end**.
 
-### 💻 Tecnologias que uso:
+### 💻 Linguagens:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+## 🛠 Ferramentas:
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ## 📫 Contatos
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muryteixeira14@gmail.com)
@@ -34,7 +38,7 @@ Here are some ideas to get you started:
 
 ## ⚙️ GitHub Analytics
 ![Muryllo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muryllost&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muryllost&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muryllost&layout=compact&theme=radical&langs_count=6&hide=C,C%23,Python,Java,C++)
 
 
 
