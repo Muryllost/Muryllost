@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Olá! Eu sou Muryllo da Silva Teixeira 👋
-
-### 👨‍💻 Sobre Mim
-- Estudante de Desenvolvimento de Sistemas no SENAI (1/2).
-- Apaixonado por tecnologia e atualmente focado em aprimorar minhas habilidades no desenvolvimento web.
-- Aprendendo back-end para complementar minhas habilidades no front-end.
+## 👨‍💻 Sobre Mim
+- Estudante de **Desenvolvimento de Sistemas** no **SENAI** (1/2).
+- Apaixonado por tecnologia, atualmente focado em aprimorar minhas habilidades no **desenvolvimento web**.
+- Aprendendo **back-end** para complementar minhas habilidades no **front-end**.
 
 ### ⚡ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
