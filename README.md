@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Muryllostx8)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Em%20breve-lightgrey?style=for-the-badge)
 
-## ⚙️ GitHub Analytics
+### 📊 GitHub Stats
 ![Muryllo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muryllost&show_icons=true&theme=radical)
-
 
 
 
