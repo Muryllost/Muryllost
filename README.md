@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Em%20breve-lightgrey?style=for-the-badge)
 
 ### 📊 GitHub Stats
-![Muryllo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muryllost&show_icons=true&title_color=DAA520&text_color=FFFFFF&icon_color=FFD700&bg_color=282C34&cache_seconds=2300)
+![Muryllo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
 
 
 
