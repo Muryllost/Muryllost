@@ -41,11 +41,9 @@ Here are some ideas to get you started:
 
 
 ### 📊 GitHub Stats
-![Muryllo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muryllost&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&cache_seconds=2300)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muryllost&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&cache_seconds=2300)](https://github.com/Anuraghazra)
+[![Muryllo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muryllost&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Muryllost)
 
-[![Muryllo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muryllost&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Muryllost)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muryllost&layout=compact&theme=dark&hide_border=true)](https://github.com/Muryllost)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muryllost&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Anuraghazra)
 
 
 
