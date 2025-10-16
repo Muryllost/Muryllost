@@ -43,6 +43,10 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
@@ -50,13 +54,13 @@
       <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
       <br>Arduino
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Github" />
       <br>Github
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -73,13 +77,13 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
@@ -95,31 +99,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td>
-  </tr>
-</table>
-
-<h3 align="left">📫 Contacts:</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <a href="mailto:muryteixeira14@gmail.com" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Email" />
-      </a>
-      <br>Email
-    </td>
-    <td align="center" width="130">
-      <a href="https://www.instagram.com/Muryllostx8" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="48" height="48" alt="Instagram" />
-      </a>
-      <br>Instagram
-    </td>
-    <td align="center" width="130">
-      <a href="https://www.linkedin.com/in/muryllo-da-silva-teixeira-2361592b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn" />
-      </a>
-      <br>LinkedIn
     </td>
   </tr>
 </table>
