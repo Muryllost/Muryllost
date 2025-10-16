@@ -31,44 +31,40 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muryllo-da-silva-teixeira-2361592b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 -->
 <h3 align="left">Languages and Tools:</h3>
+
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React Native" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React Native" />
       <br>React Native
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
       <br>Arduino
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Github" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Github" />
       <br>Github
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
@@ -77,6 +73,9 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
@@ -85,8 +84,6 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
       <br>NPM
@@ -101,7 +98,6 @@
     </td>
   </tr>
 </table>
-
 
 <h3 align="left">📫 Contacts:</h3>
 
