@@ -1,7 +1,7 @@
 ## 👨‍💻 Sobre Mim
-- Estudante de **Desenvolvimento de Sistemas** no **SENAI** (2/2).
-- Apaixonado por tecnologia, atualmente focado em aprimorar minhas habilidades no **desenvolvimento web**.
-- Aprendendo **React Native** para complementar minhas habilidades no **front-end**.
+- Estudante de **Desenvolvimento de Sistemas** pelo **SENAI** (2/2).
+- Apaixonado por tecnologia, com foco em aprimorar minhas habilidades em **desenvolvimento web**.
+- Atualmente aprendendo **React Native** para expandir meus conhecimentos em **front-end** e **desenvolvimento mobile**.
 
 <!--<h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 
@@ -36,13 +36,7 @@
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+      <br>React Native
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -56,12 +50,12 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+  <br>Arduino
+</td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
@@ -93,11 +87,10 @@
       <br>Nodejs
       </td>
       </td>
-    
-<td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
+   <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
+  <br>NPM
+</td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
@@ -107,9 +100,32 @@
       <br>PostgreSQL
     </td>
   
-     
-
  </tr>
+</table>
+
+<h3 align="left">📫 Contacts:</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <a href="mailto:muryteixeira14@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Email" />
+      </a>
+      <br>Email
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.instagram.com/Muryllostx8" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="48" height="48" alt="Instagram" />
+      </a>
+      <br>Instagram
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.linkedin.com/in/muryllo-da-silva-teixeira-2361592b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn" />
+      </a>
+      <br>LinkedIn
+    </td>
+  </tr>
 </table>
 
 ### 📊 GitHub Stats
