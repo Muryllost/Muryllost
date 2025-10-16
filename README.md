@@ -103,6 +103,31 @@
   </tr>
 </table>
 
+<h3 align="left">📫 Contacts:</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <a href="mailto:muryteixeira14@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Email" />
+      </a>
+      <br>Email
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.instagram.com/Muryllostx8" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="48" height="48" alt="Instagram" />
+      </a>
+      <br>Instagram
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.linkedin.com/in/muryllo-da-silva-teixeira-2361592b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn" />
+      </a>
+      <br>LinkedIn
+    </td>
+  </tr>
+</table>
+
 ### 📊 GitHub Stats
 ![Muryllo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muryllost&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muryllost&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Anuraghazra)
