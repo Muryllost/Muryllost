@@ -39,7 +39,7 @@
       <br>React Native
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" />
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
@@ -47,7 +47,7 @@
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48"  alt="TypeScript" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65"  alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
