@@ -1,7 +1,7 @@
 ## 👨‍💻 about me
-- Estudante de **Desenvolvimento de Sistemas** pelo **SENAI** (2/2).
-- Apaixonado por tecnologia, com foco em aprimorar minhas habilidades em **desenvolvimento web**.
-- Atualmente aprendendo **React Native** para expandir meus conhecimentos em **front-end** e **desenvolvimento mobile**.
+- Sou um Tecnico **Desenvolvimento de Sistemas** pelo **SENAI**.
+- Apaixonado por tecnologia, com foco em aprimorar minhas habilidades em **desenvolvimento web e mobile**.
+- Atualmente cursando **Sistemas de Informação** para expandir meus conhecimentos em **tecnologia** e **desenvolvimento**.
 
 <!--<h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 
