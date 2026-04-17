@@ -103,7 +103,7 @@
   </tr>
 </table>
 
-<h3 align="center">I am currently studying | Atualmente estou estudando:</h3>
+<h3 align="left">I am currently studying | Atualmente estou estudando:</h3>
 
 <table align="center">
   <tr>
