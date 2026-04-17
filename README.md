@@ -1,4 +1,4 @@
-## 👨‍💻 about me
+## 👨‍💻 hello, my names is Muryllo Teixeira 👋.
 - Sou um Tecnico **Desenvolvimento de Sistemas** pelo **SENAI**.
 - Apaixonado por tecnologia, com foco em aprimorar minhas habilidades em **desenvolvimento web e mobile**.
 - Atualmente cursando **Sistemas de Informação** para expandir meus conhecimentos em **tecnologia** e **desenvolvimento**.
