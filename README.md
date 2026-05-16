@@ -147,9 +147,12 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-![Muryllo's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muryllost&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muryllost&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muryllost&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muryllost&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300"/>
 </div>
+
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muryllost/Muryllost/output/github-contribution-grid-snake-dark.svg">
