@@ -1,7 +1,8 @@
-## 👨‍💻 hello, my names is Muryllo Teixeira 👋.
-- Sou um Tecnico **Desenvolvimento de Sistemas** pelo **SENAI**.
+## 👨‍💻 Hello, my name is Muryllo Teixeira 👋.
+- Sou um Técnico em **Desenvolvimento de Sistemas** pelo **SENAI**.
 - Apaixonado por tecnologia, com foco em aprimorar minhas habilidades em **desenvolvimento web e mobile**.
 - Atualmente cursando **Sistemas de Informação** para expandir meus conhecimentos em **tecnologia** e **desenvolvimento**.
+- 🌐 **Confira meus projetos:** [Meu Portfólio](https://portifolio-muryllo.netlify.app/)
 
 <!--<h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 
@@ -125,6 +126,12 @@
 <table align="center">
   <tr>
     <td align="center" width="130">
+      <a href="https://portifolio-muryllo.netlify.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="48" height="48" alt="Portfólio" />
+      </a>
+      <br>Portfólio
+    </td>
+    <td align="center" width="130">
       <a href="mailto:muryteixeira14@gmail.com" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Email" />
       </a>
@@ -161,4 +168,4 @@
 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Muryllost/Muryllost/output/github-contribution-grid-snake.svg">
 
-</picture> 
+</picture>
