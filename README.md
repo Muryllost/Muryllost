@@ -114,10 +114,10 @@
         </a>
         <br>Python
       </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
         <br>C++
-      </td>
+      </td> -->
   </tr>
 </table>
 
