@@ -2,7 +2,7 @@
 - Sou um Técnico em **Desenvolvimento de Sistemas** pelo **SENAI**.
 - Apaixonado por tecnologia, com foco em aprimorar minhas habilidades em **desenvolvimento web e mobile**.
 - Atualmente cursando **Sistemas de Informação** para expandir meus conhecimentos em **tecnologia** e **desenvolvimento**.
-- 🌐 **Confira meus projetos:** [Meu Portfólio]([https://portifolio-muryllo.netlify.app/](https://muryllodev.netlify.app/))
+- 🌐 **Confira meus projetos:** [Meu Portfólio](https://muryllodev.netlify.app/)
 
 <!--<h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 
