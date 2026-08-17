@@ -163,7 +163,7 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=Muryllost&background=1C1C1C&ring=8A2BE2&fire=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true&border_radius=15" />
+ <img src="https://streak-stats.demolab.com/?user=Muryllost&background=1C1C1C&ring=8A2BE2&fire=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true&border_radius=15" />
 
 </div>
 
