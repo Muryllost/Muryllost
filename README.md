@@ -159,6 +159,13 @@
 
 <img height="180em" src="https://seu-dominio.vercel.app/api/top-langs/?username=Muryllost&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300"/>
 </div>
+### 🔥 GitHub Streak
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=Muryllost&background=1C1C1C&ring=8A2BE2&fire=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true&border_radius=15" />
+
+</div>
 
 <picture>
 
