@@ -126,7 +126,7 @@
 <table align="center">
   <tr>
     <td align="center" width="130">
-      <a href="https://portifolio-muryllo.netlify.app/" target="_blank">
+      <a href="(https://muryllodev.netlify.app/)" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="48" height="48" alt="Portfólio" />
       </a>
       <br>Portfólio
